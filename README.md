@@ -65,7 +65,7 @@ leadership & community:
 <br/>
 
 > **Inno-Week Platform (PI USTHB)** — `Next.js` · `Full-Stack` · `UI/UX`  
-> Architected the end-to-end event registration web platform and admin dashboard for Project Initiative's Inno-Week, featuring dynamic registration forms, automated email notifications, and live Google Sheets data exports.
+> Architected the end-to-end event registration web platform for Project Initiative's Inno-Week, featuring dynamic registration forms, automated email notifications, and live Google Sheets data exports.
 
 <br/>
 
