@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Developer+%C2%B7+UI%2FUX+Designer;Building+Scalable+Web+Apps+%26+RAG+Pipelines;Crafting+Clean+Interfaces+%26+Design+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Cloud+Developer+%C2%B7+UI%2FUX+Designer;AWS+SBG+USTHB+Core+Team+%26+Social+Media+Lead;Building+Scalable+Web+Apps+%26+AI+Workflows" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -20,16 +20,17 @@
 
 ### ⚡ About Me
 
-I’m a **Full-Stack Developer, AI Enthusiast & UI/UX Designer** focused on building intuitive digital interfaces, scalable web architectures, and data-driven AI systems.
+I’m a **Full-Stack Developer, Cloud & AI Enthusiast & UI/UX Designer** focused on building intuitive digital interfaces, scalable web architectures, and automated community tools.
 
 <pre>
 student: B.Sc. in Computer Science (ISIL) @ USTHB
 focus:
   - Full-Stack Web Architecture (Next.js, React, FastAPI, Django)
-  - AI Workflows, RAG Pipelines & Data Exploration
-  - UI/UX Design Systems & Interactive Prototyping
-community:
-  - Active contributor @ GDG Algiers, PIC USTHB, OMC USTHB & AWS USTHB Club
+  - Cloud Architecture (AWS), Automation Bots & AI Workflows
+  - UI/UX Design Systems & Brand Visual Identity
+leadership & community:
+  - Core Team & Social Media Lead @ AWS SBG USTHB
+  - Active contributor @ GDG Algiers, PI USTHB & OMC USTHB
 </pre>
 
 ---
@@ -37,7 +38,7 @@ community:
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,python,fastapi,django,c,docker,linux,git,figma,illustrator&theme=dark&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,python,fastapi,django,aws,docker,linux,git,figma,illustrator&theme=dark&perline=7" alt="Tech Stack Icons" />
 </div>
 
 <br/>
@@ -46,20 +47,25 @@ community:
   `React` · `Next.js` · `JavaScript` · `HTML5 / CSS3` · `Design Systems` · `Wireframing & Prototyping` · `Figma` · `Adobe Illustrator`
 
 * **⚙️ Backend & Systems**  
-  `Python` · `FastAPI` · `Django` · `REST APIs` · `C` · `8086 Assembly` · `Flex & Bison`
+  `Python` · `FastAPI` · `Django` · `REST APIs` · `Discord Bots` · `C` · `8086 Assembly` · `Flex & Bison`
 
-* **🧠 AI, Data & LLMs**  
+* **☁️ Cloud, DevOps & Databases**  
+  `AWS` · `Docker` · `Linux (Ubuntu / WSL)` · `Git` · `Vercel` · `Relational & NoSQL Databases` · `Query Optimization`
+
+* **🧠 AI & Data**  
   `RAG Pipelines` · `LLM Integrations` · `Primary-Source Grounded AI` · `Vector Retrieval` · `Data Exploration` · `NumPy`
-
-* **🗄️ Databases & DevOps**  
-  `Databases (Relational & NoSQL Architecture)` · `Query Optimization` · `Docker` · `Linux (Ubuntu / WSL)` · `Git` · `Vercel`
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects & Highlights
 
-> **Inno-Week Platform** — `Next.js` · `Full-Stack` · `UI/UX`  
-> Architected a full-stack event registration platform and admin dashboard for PIC USTHB featuring dynamic forms, automated email notifications, and live Google Sheets exports.
+> **AWS SBG USTHB — Community Infrastructure & Brand Visuals** — `Python` · `Automation` · `Design`  
+> Serving as **Core Team Member & Social Media Lead** for the AWS Student Builder Group at USTHB. Engineered and deployed a custom automated recruitment bot for member acceptances, structured the community Discord server, and designed official teasers and brand announcements.
+
+<br/>
+
+> **Inno-Week Platform (PI USTHB)** — `Next.js` · `Full-Stack` · `UI/UX`  
+> Architected the end-to-end event registration web platform and admin dashboard for Project Initiative's Inno-Week, featuring dynamic registration forms, automated email notifications, and live Google Sheets data exports.
 
 <br/>
 
